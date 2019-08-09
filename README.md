@@ -1,4 +1,4 @@
-# SQLAlchemy_and_Flask
+# SQLAlchemy 
 
 Step 1 - Climate Analysis and Exploration
 
